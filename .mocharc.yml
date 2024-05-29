@@ -1,0 +1,6 @@
+ui: bdd
+timeout: 100000
+require:
+  - dotenv/config
+node-option:
+  - import=tsx
